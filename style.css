@@ -46,16 +46,11 @@ html {
 /* Styling for each link in the navigation */
 .nav-bar nav ul li a {
     text-decoration: none;
-    /* Removes underline */
     color: #ffffff;
-    /* Sets text color */
     font-weight: bold;
-    /* Makes text bold */
-    padding: 10px 10px;
-    /* Adds padding for clickable area */
+    padding: 10px 30px;
     transition: color 0.3s ease;
-    /* Smooth color change on hover */
-    font-size: 3.5rem;
+    font-size: 4rem;
 }
 
 /* Hover effect for links */
